@@ -197,7 +197,7 @@ int main() {
 }
 */
 // Задача 1 Практика 12
-/**/
+/*
 #include <iostream>
 #include <vector>
 #include <string>
@@ -268,3 +268,4 @@ int main() {
 
     return 0;
 }
+    */
